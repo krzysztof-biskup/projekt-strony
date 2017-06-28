@@ -1,0 +1,25 @@
+{
+  "name": "kodilla-projekt-strony",
+  "version": "1.0.0",
+  "description": " \"Grunt moduł\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-moduł"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szuwarek1/projekt-strony.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Krzysztof Biskup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szuwarek1/projekt-strony/issues"
+  },
+  "homepage": "https://github.com/szuwarek1/projekt-strony#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
