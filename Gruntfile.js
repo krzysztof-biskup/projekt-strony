@@ -5,7 +5,7 @@ module.exports = function(grunt) {
 
   });
   // Load the plugins tasks
-
+  grunt.loadNpmTasks('grunt-sass');
   // Default task(s).
   grunt.registerTask('default', []);
 };

@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/szuwarek1/projekt-strony#readme",
   "devDependencies": {
-    "grunt": "^1.0.1"
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
   }
 }
